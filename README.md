@@ -1,6 +1,6 @@
 # Fedora 40 Ansible Test Image
 
-[![CI](https://github.com/geerlingguy/docker-fedora40-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/geerlingguy/docker-fedora40-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/geerlingguy/docker-fedora40-ansible)](https://hub.docker.com/r/geerlingguy/docker-fedora40-ansible/)
+[![Build](https://github.com/geerlingguy/docker-fedora40-ansible/actions/workflows/build.yml/badge.svg)](https://github.com/geerlingguy/docker-fedora40-ansible/actions/workflows/build.yml) [![Docker pulls](https://img.shields.io/docker/pulls/geerlingguy/docker-fedora40-ansible)](https://hub.docker.com/r/geerlingguy/docker-fedora40-ansible/)
 
 Fedora 40 Docker container for Ansible playbook and role testing.
 
